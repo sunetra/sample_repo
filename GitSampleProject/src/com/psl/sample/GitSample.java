@@ -6,6 +6,6 @@ public class GitSample {
 		// TODO Auto-generated method stub
 		System.out.println("Git test project for demo");
 		System.out.println("Changes by sunetra");	
-		System.out.println("Change2");
+		System.out.println("Change3");
 	}
 }
